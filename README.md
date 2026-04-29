@@ -76,12 +76,11 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 <img width="940" height="609" alt="image" src="https://github.com/user-attachments/assets/5b59c966-84e5-4d57-9e24-48e936b8036d" />
 
-<img width="833" height="1381" alt="image" src="https://github.com/user-attachments/assets/c29cdb26-aa4a-45ca-87a4-31ab48cd41b4" />
 
 
 ### IP Lookup result:
 <img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/50de1e71-ddfb-45d6-9f37-96ecedd65e0b" />
-<img width="940" height="759" alt="image" src="https://github.com/user-attachments/assets/ddbe1705-fe94-4405-8706-fbe5e14ebc1c" />
+
 
 ### History of the website :
 <img width="1882" height="1126" alt="image" src="https://github.com/user-attachments/assets/241ceb61-691c-4757-b33a-d4aaf6992baa" />
