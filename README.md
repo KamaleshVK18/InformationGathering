@@ -83,7 +83,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ### History of the website :
-<img width="1882" height="1126" alt="image" src="https://github.com/user-attachments/assets/241ceb61-691c-4757-b33a-d4aaf6992baa" />
+<img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/25c22f90-badd-4891-a706-34be88f2f7eb" />
+
 
 ### ping command :
 <img width="773" height="331" alt="image" src="https://github.com/user-attachments/assets/12c65567-4274-4f9c-aa71-428b3c3fc214" />
