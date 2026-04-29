@@ -85,15 +85,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ### History of the website :
 <img width="940" height="535" alt="image" src="https://github.com/user-attachments/assets/25c22f90-badd-4891-a706-34be88f2f7eb" />
 
-
-### ping command :
-<img width="773" height="331" alt="image" src="https://github.com/user-attachments/assets/12c65567-4274-4f9c-aa71-428b3c3fc214" />
-
-
 ### whois :
 <img width="636" height="505" alt="image" src="https://github.com/user-attachments/assets/a4318712-7fd0-43b6-949c-fd17d18c471c" />
-
-
 
 ### netcat :
 <img width="645" height="336" alt="image" src="https://github.com/user-attachments/assets/3c17ed42-2e4f-4ba6-b8ba-345edaf1124d" />
@@ -101,21 +94,29 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ### nmap :
-<img width="1918" height="486" alt="image" src="https://github.com/user-attachments/assets/f1ae0a08-fc14-49ca-9973-7fcc6e494603" />
+<img width="644" height="193" alt="image" src="https://github.com/user-attachments/assets/995a8ec2-47a2-49e6-819c-5893a686b8c8" />
+
 
 
 ### whatweb :
-<img width="1919" height="136" alt="image" src="https://github.com/user-attachments/assets/f260708d-594d-4078-b947-44b38c53cb03" />
+<img width="625" height="386" alt="image" src="https://github.com/user-attachments/assets/cd66ac8a-a703-41fc-8551-ba39b1e6050a" />
+
 
 
 ### httprint :
-<img width="1917" height="850" alt="image" src="https://github.com/user-attachments/assets/7157122e-ce49-4b30-9ea7-858e5955163d" />
+<img width="705" height="840" alt="image" src="https://github.com/user-attachments/assets/8d342099-5a01-45a2-b79e-b6af587994c8" />
+
 
 ### TCP traceroute :
-<img width="1915" height="102" alt="image" src="https://github.com/user-attachments/assets/1d0427d5-c2ef-4b86-acab-74a04a45c65f" />
+<img width="695" height="78" alt="image" src="https://github.com/user-attachments/assets/99780a2f-918b-4ad2-89c6-49e4eac9308e" />
 
 ### UDP traceroute :
-<img width="1893" height="356" alt="image" src="https://github.com/user-attachments/assets/fef6d83f-88ca-4072-8ff7-1b34708d64da" />
+<img width="693" height="532" alt="image" src="https://github.com/user-attachments/assets/ab1b6572-7700-4ae1-9e14-34a4a728ef94" />
+
+
+### ICMP traceroute:
+<img width="691" height="538" alt="image" src="https://github.com/user-attachments/assets/515ab07d-bf82-4522-8a77-bacc64b0abea" />
+
 
 
 ## RESULT:
