@@ -91,7 +91,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ### whois :
-<img width="1919" height="1107" alt="image" src="https://github.com/user-attachments/assets/a1513a93-7233-4334-b018-2d8c6919ab90" />
+<img width="636" height="505" alt="image" src="https://github.com/user-attachments/assets/a4318712-7fd0-43b6-949c-fd17d18c471c" />
+
 
 
 ### netcat :
