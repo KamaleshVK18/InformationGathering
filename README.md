@@ -95,7 +95,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ### netcat :
-<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/3de85b26-2047-45f9-a6d5-3034a47b059d" />
+<img width="645" height="336" alt="image" src="https://github.com/user-attachments/assets/3c17ed42-2e4f-4ba6-b8ba-345edaf1124d" />
+
 
 
 ### nmap :
